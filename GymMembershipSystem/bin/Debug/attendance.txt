@@ -1,0 +1,3 @@
+1,1,Trainer 1,2024-10-10,Yoga,5,10
+2,2,Trainer 2,2024-10-11,HIIT,4,8
+3,1,Trainer 3,2024-10-12,Strength Training,5,10

@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\sessionmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\sessionmanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\uts college\\gymmembershipsystem (2)\\gymmembershipsystem\\gymmembershipsystem\\sessionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\sessionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\usermanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\usermanagementtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\uts college\\gymmembershipsystem (2)\\gymmembershipsystem\\gymmembershipsystem\\booksessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\booksessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\uts college\\gymmembershipsystem (2)\\gymmembershipsystem\\gymmembershipsystem\\changemembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\changemembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\uts college\\gymmembershipsystem (2)\\gymmembershipsystem\\gymmembershipsystem\\loginadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\loginadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|c:\\users\\admin\\onedrive\\desktop\\uts college\\gymmembershipsystem (2)\\gymmembershipsystem\\gymmembershipsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\booksessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\booksessionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\sessionutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\sessionutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\loginadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\loginadminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\progressform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\iusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\iusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\isessionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\isessionmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\genericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\genericcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\changemembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\changemembershipform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\gymmembershipsystem\\addtrainersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E64EBD0-CDF6-4C39-9399-72B41521671C}|GymMembershipSystem\\GymMembershipSystem.csproj|solutionrelative:gymmembershipsystem\\addtrainersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookSessionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\BookSessionForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\BookSessionForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\BookSessionForm.cs [Design]",
+              "RelativeToolTip": "GymMembershipSystem\\BookSessionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:49:14.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeMembershipForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ChangeMembershipForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\ChangeMembershipForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ChangeMembershipForm.cs [Design]",
+              "RelativeToolTip": "GymMembershipSystem\\ChangeMembershipForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:49:12.287Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginAdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\LoginAdminForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\LoginAdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\LoginAdminForm.cs [Design]",
+              "RelativeToolTip": "GymMembershipSystem\\LoginAdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:49:10.687Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AdminForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AdminForm.cs [Design]",
+              "RelativeToolTip": "GymMembershipSystem\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:46:05.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManagementTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\UserManagementTests.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\UserManagementTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\UserManagementTests.cs",
+              "RelativeToolTip": "GymMembershipSystem\\UserManagementTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:21:55.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionManagementTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SessionManagementTests.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\SessionManagementTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SessionManagementTests.cs",
+              "RelativeToolTip": "GymMembershipSystem\\SessionManagementTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:20:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SessionManagement.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\SessionManagement.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SessionManagement.cs",
+              "RelativeToolTip": "GymMembershipSystem\\SessionManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:19:42.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SessionUtilities.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\SessionUtilities.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SessionUtilities.cs",
+              "RelativeToolTip": "GymMembershipSystem\\SessionUtilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:52:20.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\UserManagement.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\UserManagement.cs",
+              "RelativeToolTip": "GymMembershipSystem\\UserManagement.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:21:04.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookSessionForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\BookSessionForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\BookSessionForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\BookSessionForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\BookSessionForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:00:03.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProgressForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ProgressForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\ProgressForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ProgressForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\ProgressForm.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAwFIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:19:24.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\MainForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\MainForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:18:39.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\LoginForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\LoginForm.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAQwHcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:18:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginAdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\LoginAdminForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\LoginAdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\LoginAdminForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\LoginAdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:18:10.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SignUpForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\SignUpForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\SignUpForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\SignUpForm.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAJ8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:20:19.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\User.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\User.cs",
+              "RelativeToolTip": "GymMembershipSystem\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:20:42.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\IUserManagement.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\IUserManagement.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\IUserManagement.cs",
+              "RelativeToolTip": "GymMembershipSystem\\IUserManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:17:45.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISessionManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ISessionManagement.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\ISessionManagement.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ISessionManagement.cs",
+              "RelativeToolTip": "GymMembershipSystem\\ISessionManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:17:52.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\GenericCollection.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\GenericCollection.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\GenericCollection.cs",
+              "RelativeToolTip": "GymMembershipSystem\\GenericCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:17:05.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\DashboardForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\DashboardForm.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:16:37.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangeMembershipForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ChangeMembershipForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\ChangeMembershipForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\ChangeMembershipForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\ChangeMembershipForm.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwGwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:00:47.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AdminUser.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AdminUser.cs",
+              "RelativeToolTip": "GymMembershipSystem\\AdminUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:03:09.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AdminForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\AdminForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AdminForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\AdminForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAE4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:58:44.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddTrainersForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AddTrainersForm.cs",
+              "RelativeDocumentMoniker": "GymMembershipSystem\\AddTrainersForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\UTS College\\GymMembershipSystem (2)\\GymMembershipSystem\\GymMembershipSystem\\AddTrainersForm.cs",
+              "RelativeToolTip": "GymMembershipSystem\\AddTrainersForm.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAAGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:58:17.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

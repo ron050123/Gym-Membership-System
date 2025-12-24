@@ -1,0 +1,397 @@
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Admin\source\repos\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AddTrainersForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AdminForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AddTrainersForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AdminForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginAdminForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Admin\OneDrive\Desktop\ableton stuff\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AddTrainersForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AdminForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginAdminForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (1)\GymMembershipSystem (1)\GymMembershipSystem\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AddTrainersForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AdminForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginAdminForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.api.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.core.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembe.7B148ED1.Up2Date
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.api.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.core.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AddTrainersForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AdminForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginAdminForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembe.7B148ED1.Up2Date
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.api.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.core.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AddTrainersForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AdminForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginAdminForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembe.7B148ED1.Up2Date
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Nguyen Tran\Desktop\UTS\Sem1\Application .NET\Assignment 2\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.api.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.engine.core.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe.config
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.exe
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\GymMembershipSystem.pdb
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Buffers.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Memory.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\bin\Debug\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AddTrainersForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.AdminForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.BookSessionForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ChangeMembershipForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.DashboardForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginAdminForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.LoginForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.MainForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ProgressForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.SignUpForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.ViewSessionForm.resources
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembe.7B148ED1.Up2Date
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.exe
+C:\Users\Admin\OneDrive\Desktop\UTS College\GymMembershipSystem (2)\GymMembershipSystem\GymMembershipSystem\obj\Debug\GymMembershipSystem.pdb
